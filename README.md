@@ -26,7 +26,7 @@ The dataset is directly available from `sklearn.datasets`.
 ## 🛠️ Tools & Technologies
 
 - Language: Python
-- Libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
+- Libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`
 - Environment: Jupyter Notebook
 
 ## 📈 Evaluation Metrics
